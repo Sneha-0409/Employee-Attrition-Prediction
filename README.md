@@ -56,9 +56,9 @@ Employee attrition impacts an organization's productivity, hiring costs, and emp
 
 | Model | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
 |--------|----------|-----------|--------|----------|---------|
-| Logistic Regression | XX.XX | XX.XX | XX.XX | XX.XX | XX.XX |
-| Random Forest | XX.XX | XX.XX | XX.XX | XX.XX | XX.XX |
-| Gradient Boosting | XX.XX | XX.XX | XX.XX | XX.XX | XX.XX |
+| Logistic Regression | 0.752 | 0.349 | 0.638 | 0.451 | 0.803 |
+| Random Forest | 0.844 | 0.571 | 0.085 | 0.148 | 0.769 |
+| Gradient Boosting | 0.857 | 0.667 | 0.213 | 0.323 | 0.804 |
 
 ---
 
